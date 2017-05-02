@@ -1,4 +1,4 @@
-name: cppm
+name: thiocyanate
 channels:
     - conda-forge
 dependencies:
