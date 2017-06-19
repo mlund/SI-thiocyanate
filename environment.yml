@@ -1,10 +1,13 @@
 name: thiocyanate
 channels:
     - conda-forge
+    - omnia
 dependencies:
     - python=3
     - numpy
     - scipy
     - pandas
-    - matplotlib
+    - matplotlib=1.5.1
     - notebook
+    - openmm=7.1.0rc1
+    - mdtraj=1.8.0
