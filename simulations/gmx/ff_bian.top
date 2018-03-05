@@ -1,0 +1,26 @@
+; Include forcefield parameters
+#include "charmm27.ff/forcefield.itp"
+
+[ atomtypes ]
+; name    at.num  mass     charge ptype  sigma [nm] epsilon [kJ/mol]
+S-P    16   32.0660  -0.56   A         0.352      1.5225
+CSP     6   12.0110   0.14   A         0.335      0.425
+NSP     7   14.0067  -0.58   A         0.331      0.310
+
+#include "../ff_bian/ions_nb_sigma_eps_gromacs.itp"
+
+; Include topology for scn
+#include "../ff_bian/scn.itp"
+ 
+; Include water topology
+#include "charmm27.ff/spce.itp"
+
+; Include topology for ions
+#include "../ff_bian/ions_sigma_eps_gromacs.itp"
+
+[ system ]
+; Name
+Proteins in water
+
+[ molecules ]
+; Compound        #mols

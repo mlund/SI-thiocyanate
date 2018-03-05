@@ -1,0 +1,46 @@
+; ---- 
+; Built itp for scn.mol2 
+;    by user vzoete     Thu Nov 15 13:56:56 CET 2012 
+; ---- 
+;
+
+;[ pairtypes ] 
+;  i     j    func     sigma1-4       epsilon1-4 ; THESE ARE 1-4 INTERACTIONS 
+
+[ moleculetype ]
+; Name nrexcl 
+SCN 3
+
+[ atoms ] 
+; nr type resnr resid atom cgnr charge mass 
+   1 S-P  1  SCN S1      1 -0.56   32.0660 
+   2 CSP  1  SCN C2      2  0.14   12.0110 
+   3 NSP  1  SCN N3      3 -0.58   14.0067 
+
+[ bonds ]
+; ai aj fu b0 kb, b0 kb 
+  1   2 1 0.166  252929.5  0.169    252929.5 
+  2   3 1 0.119  998590.3  0.115    998590.3 
+
+[ pairs ]
+; ai aj fu 
+
+[ angles ] 
+; ai aj ak fu th0 kth ub0 kub th0 kth ub0 kub 
+  1   2   3 1  180.000  698.56      0.0000  698.56 
+
+[ dihedrals ] 
+; ai aj ak al fu phi0 kphi mult phi0 kphi mult 
+
+[ dihedrals ]
+; ai aj ak al fu xi0 kxi xi0 kxi 
+
+
+#ifdef POSRES_SCN
+[ position_restraints ] 
+; atom  type      fx      fy      fz 
+   1 1 1000 1000 1000 
+   2 1 1000 1000 1000 
+   3 1 1000 1000 1000 
+#endif 
+

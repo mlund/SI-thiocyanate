@@ -1,0 +1,29 @@
+# This file was created Tue Jan 23 15:44:05 2018
+# Created by:
+#                 :-) GROMACS - gmx clustsize, VERSION 5.1.4 (-:
+# 
+# Executable:   /opt/local/bin/gmx
+# Data prefix:  /opt/local
+# Command line:
+#   gmx clustsize -f /Users/giulio/Projects/SI-scn/bulk/rdfs/data/ff_our/spce/nascn/3.0m/out.xtc -s /Users/giulio/Projects/SI-scn/bulk/rdfs/data/ff_our/spce/nascn/3.0m/out.tpr -n /Users/giulio/Projects/SI-scn/bulk/rdfs/data/ff_our/spce/nascn/3.0m/out.ndx -hc /Users/giulio/Projects/SI-scn/bulk/rdfs/data/ff_our/spce/nascn/3.0m/hc_0.545_8.xvg -b 10800 -e 12000 -cut 0.545
+# gmx clustsize is part of G R O M A C S:
+#
+# Guyana Rwanda Oman Macau Angola Cameroon Senegal
+#
+@    title "Cluster size distribution"
+@    xaxis  label "Cluster size"
+@    yaxis  label "()"
+@TYPE xy
+    0     0.000
+    1   309.938
+    2    52.271
+    3    11.118
+    4     2.963
+    5     0.874
+    6     0.314
+    7     0.088
+    8     0.033
+    9     0.013
+   10     0.002
+   11     0.003
+   12     0.000

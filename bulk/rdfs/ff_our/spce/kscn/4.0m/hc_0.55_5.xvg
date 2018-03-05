@@ -1,0 +1,32 @@
+# This file was created Tue Feb  6 14:20:12 2018
+# Created by:
+#                 :-) GROMACS - gmx clustsize, VERSION 5.1.4 (-:
+# 
+# Executable:   /opt/local/bin/gmx
+# Data prefix:  /opt/local
+# Command line:
+#   gmx clustsize -f /Users/giulio/Projects/SI-scn/bulk/rdfs/ff_our/spce/kscn/4.0m/out.xtc -s /Users/giulio/Projects/SI-scn/bulk/rdfs/ff_our/spce/kscn/4.0m/out.tpr -n /Users/giulio/Projects/SI-scn/bulk/rdfs/ff_our/spce/kscn/4.0m/out.ndx -hc /Users/giulio/Projects/SI-scn/bulk/rdfs/ff_our/spce/kscn/4.0m/hc_0.55_5.xvg -b 11055 -e 13694 -cut 0.55
+# gmx clustsize is part of G R O M A C S:
+#
+# Great Red Owns Many ACres of Sand 
+#
+@    title "Cluster size distribution"
+@    xaxis  label "Cluster size"
+@    yaxis  label "()"
+@TYPE xy
+    0     0.000
+    1   307.886
+    2    67.615
+    3    19.312
+    4     6.709
+    5     2.660
+    6     1.033
+    7     0.442
+    8     0.175
+    9     0.072
+   10     0.023
+   11     0.014
+   12     0.003
+   13     0.003
+   14     0.001
+   15     0.000

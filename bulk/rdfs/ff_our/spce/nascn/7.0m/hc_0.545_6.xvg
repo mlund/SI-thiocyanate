@@ -1,0 +1,111 @@
+# This file was created Tue Jan 23 15:47:35 2018
+# Created by:
+#                 :-) GROMACS - gmx clustsize, VERSION 5.1.4 (-:
+# 
+# Executable:   /opt/local/bin/gmx
+# Data prefix:  /opt/local
+# Command line:
+#   gmx clustsize -f /Users/giulio/Projects/SI-scn/bulk/rdfs/data/ff_our/spce/nascn/7.0m/out.xtc -s /Users/giulio/Projects/SI-scn/bulk/rdfs/data/ff_our/spce/nascn/7.0m/out.tpr -n /Users/giulio/Projects/SI-scn/bulk/rdfs/data/ff_our/spce/nascn/7.0m/out.ndx -hc /Users/giulio/Projects/SI-scn/bulk/rdfs/data/ff_our/spce/nascn/7.0m/hc_0.545_6.xvg -b 8400 -e 9600 -cut 0.545
+# gmx clustsize is part of G R O M A C S:
+#
+# Grunge ROck MAChoS
+#
+@    title "Cluster size distribution"
+@    xaxis  label "Cluster size"
+@    yaxis  label "()"
+@TYPE xy
+    0     0.000
+    1   222.388
+    2    66.077
+    3    28.135
+    4    14.932
+    5     9.116
+    6     5.938
+    7     4.211
+    8     3.151
+    9     2.300
+   10     1.857
+   11     1.488
+   12     1.120
+   13     0.900
+   14     0.747
+   15     0.681
+   16     0.546
+   17     0.473
+   18     0.454
+   19     0.381
+   20     0.364
+   21     0.290
+   22     0.215
+   23     0.220
+   24     0.178
+   25     0.140
+   26     0.123
+   27     0.138
+   28     0.098
+   29     0.085
+   30     0.075
+   31     0.090
+   32     0.073
+   33     0.068
+   34     0.068
+   35     0.038
+   36     0.045
+   37     0.053
+   38     0.032
+   39     0.045
+   40     0.032
+   41     0.035
+   42     0.023
+   43     0.030
+   44     0.013
+   45     0.017
+   46     0.023
+   47     0.013
+   48     0.007
+   49     0.010
+   50     0.012
+   51     0.008
+   52     0.013
+   53     0.015
+   54     0.008
+   55     0.000
+   56     0.008
+   57     0.007
+   58     0.008
+   59     0.010
+   60     0.002
+   61     0.007
+   62     0.003
+   63     0.003
+   64     0.003
+   65     0.002
+   66     0.002
+   67     0.005
+   68     0.003
+   69     0.002
+   70     0.002
+   71     0.000
+   72     0.000
+   73     0.000
+   74     0.000
+   75     0.003
+   76     0.000
+   77     0.000
+   78     0.002
+   79     0.000
+   80     0.000
+   81     0.000
+   82     0.000
+   83     0.000
+   84     0.000
+   85     0.000
+   86     0.002
+   87     0.000
+   88     0.000
+   89     0.002
+   90     0.002
+   91     0.000
+   92     0.002
+   93     0.002
+   94     0.000

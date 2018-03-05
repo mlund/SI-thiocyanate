@@ -1,0 +1,17 @@
+integrator           = steep
+emstep               = 0.00001
+emtol                = 90
+nsteps               = 50000
+nstlist              = 20
+init-step            = 0
+cutoff-scheme        = Verlet
+ns_type              = Grid
+pbc                  = xyz
+coulombtype          = PME
+pme-order            = 6
+ewald-geometry       = 3dc
+coulomb-modifier     = Potential-shift-Verlet
+rcoulomb             = 1
+vdwtype              = cut-off
+vdw-modifier         = Potential-shift-Verlet
+rvdw                 = 1

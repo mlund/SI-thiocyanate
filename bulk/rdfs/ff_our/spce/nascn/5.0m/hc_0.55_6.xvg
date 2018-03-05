@@ -1,0 +1,60 @@
+# This file was created Tue Feb  6 14:07:58 2018
+# Created by:
+#                 :-) GROMACS - gmx clustsize, VERSION 5.1.4 (-:
+# 
+# Executable:   /opt/local/bin/gmx
+# Data prefix:  /opt/local
+# Command line:
+#   gmx clustsize -f /Users/giulio/Projects/SI-scn/bulk/rdfs/ff_our/spce/nascn/5.0m/out.xtc -s /Users/giulio/Projects/SI-scn/bulk/rdfs/ff_our/spce/nascn/5.0m/out.tpr -n /Users/giulio/Projects/SI-scn/bulk/rdfs/ff_our/spce/nascn/5.0m/out.ndx -hc /Users/giulio/Projects/SI-scn/bulk/rdfs/ff_our/spce/nascn/5.0m/hc_0.55_6.xvg -b 13694 -e 16333 -cut 0.55
+# gmx clustsize is part of G R O M A C S:
+#
+# Gyas ROwers Mature At Cryogenic Speed
+#
+@    title "Cluster size distribution"
+@    xaxis  label "Cluster size"
+@    yaxis  label "()"
+@TYPE xy
+    0     0.000
+    1   270.468
+    2    72.859
+    3    26.584
+    4    12.124
+    5     6.331
+    6     3.561
+    7     2.150
+    8     1.415
+    9     0.901
+   10     0.652
+   11     0.440
+   12     0.325
+   13     0.204
+   14     0.156
+   15     0.116
+   16     0.085
+   17     0.065
+   18     0.047
+   19     0.030
+   20     0.030
+   21     0.013
+   22     0.021
+   23     0.014
+   24     0.005
+   25     0.006
+   26     0.003
+   27     0.002
+   28     0.000
+   29     0.000
+   30     0.002
+   31     0.003
+   32     0.002
+   33     0.000
+   34     0.000
+   35     0.000
+   36     0.000
+   37     0.000
+   38     0.001
+   39     0.000
+   40     0.001
+   41     0.000
+   42     0.001
+   43     0.000

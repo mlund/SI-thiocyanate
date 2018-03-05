@@ -1,0 +1,35 @@
+# This file was created Tue Feb  6 14:07:19 2018
+# Created by:
+#                 :-) GROMACS - gmx clustsize, VERSION 5.1.4 (-:
+# 
+# Executable:   /opt/local/bin/gmx
+# Data prefix:  /opt/local
+# Command line:
+#   gmx clustsize -f /Users/giulio/Projects/SI-scn/bulk/rdfs/ff_our/spce/nascn/4.0m/out.xtc -s /Users/giulio/Projects/SI-scn/bulk/rdfs/ff_our/spce/nascn/4.0m/out.tpr -n /Users/giulio/Projects/SI-scn/bulk/rdfs/ff_our/spce/nascn/4.0m/out.ndx -hc /Users/giulio/Projects/SI-scn/bulk/rdfs/ff_our/spce/nascn/4.0m/hc_0.55_18.xvg -b 45361 -e 48000 -cut 0.55
+# gmx clustsize is part of G R O M A C S:
+#
+# GROwing Monsters And Cloning Shrimps
+#
+@    title "Cluster size distribution"
+@    xaxis  label "Cluster size"
+@    yaxis  label "()"
+@TYPE xy
+    0     0.000
+    1   289.852
+    2    67.395
+    3    20.494
+    4     7.564
+    5     3.266
+    6     1.461
+    7     0.692
+    8     0.387
+    9     0.173
+   10     0.081
+   11     0.042
+   12     0.025
+   13     0.019
+   14     0.006
+   15     0.005
+   16     0.002
+   17     0.002
+   18     0.000

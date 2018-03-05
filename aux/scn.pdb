@@ -1,0 +1,9 @@
+TITLE     Proteins in water t=   0.00000
+REMARK    THIS IS A SIMULATION BOX
+CRYST1   72.977   72.977   72.977  90.00  90.00  90.00 P 1           1
+MODEL        1
+ATOM      1  S1  SCN     1      34.989  36.511  36.488  1.00  0.00           S
+ATOM      2  C2  SCN     1      36.643  36.418  36.488  1.00  0.00           C
+ATOM      3  N3  SCN     1      37.833  36.536  36.488  1.00  0.00           N
+TER
+ENDMDL

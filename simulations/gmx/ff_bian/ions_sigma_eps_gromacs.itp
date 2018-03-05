@@ -1,0 +1,129 @@
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+; Topology of ions for gromacs using ;
+; sigma (nm) and epsilon (kJ/mol)    ;
+; Author: Hector martinez-Seara      ;
+; v.2.0                              ;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+[ moleculetype ]
+; Name   nrexcl
+NA_d          1
+; DOI: 10.1063/1.466363 ; Dang1994
+
+[ atoms ]
+;   nr    type   resnr  residu    atom    cgnr        charge          mass
+     1     Na_d       1     NA     NA       1              1.0      22.98977
+
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+[ moleculetype ]
+; Name   nrexcl
+NA_s          1
+; DOI: DOI: 10.1021/acs.jpcb.5b05221 ; Jungwirth2015 ; scaled 
+
+[ atoms ]
+;   nr    type   resnr  residu    atom    cgnr        charge          mass
+     1     Na_s       1     NA     NA       1              0.75      22.98977
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+[ moleculetype ]
+; Name   nrexcl
+CL_d          1
+; DOI: 10.1063/1.466363 ; Dang1994
+
+[ atoms ]
+;   nr    type   resnr  residu    atom    cgnr        charge          mass
+     1     Cl_d      1     CL      CL       1            -1.0      35.45300
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+[ moleculetype ]
+; Name   nrexcl
+CL_2d          1
+; DOI: 10.1021/jp064661f ; Dang2006
+
+[ atoms ]
+;   nr    type   resnr  residu    atom    cgnr        charge          mass
+     1     Cl_2d     1     CL      CL       1            -1.0      35.45300
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+[ moleculetype ]
+; Name   nrexcl
+CL_s          1
+; DOI: 10.1021/jp5005693 ; Jungwirth2014a ; scaled
+
+[ atoms ]
+;   nr    type   resnr  residu    atom    cgnr        charge          mass
+     1     Cl_s     1     CL      CL       1            -0.75      35.45300
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+[ moleculetype ]
+; Name   nrexcl
+CL_2s          1
+; DOI: 10.1080/00268976.2013.875231 ; Jungwirth2014b ; scaled
+
+[ atoms ]
+;   nr    type   resnr  residu    atom    cgnr        charge          mass
+     1     Cl_2s     1     CL      CL       1            -0.75      35.45300
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+[ moleculetype ]
+; Name   nrexcl
+I_s          1
+; DOI: 10.1021/jp5005693 ; Jungwirth2014a ; scaled
+
+[ atoms ]
+;   nr    type   resnr  residu    atom    cgnr        charge          mass
+     1     I_s     1     I      I       1            -0.75      126.90447
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+[ moleculetype ]
+; Name   nrexcl
+I_2s          1
+; DOI: 10.1021/jp5005693 ; Jungwirth2014a ; scaled
+
+[ atoms ]
+;   nr    type   resnr  residu    atom    cgnr        charge          mass
+     1     I_2s     1     I      I       1            -0.75      126.90447
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+[ moleculetype ]
+; Name   nrexcl
+I_d          1
+; DOI: 10.1021/jp5005693 ; Jungwirth2014a ; scaled
+
+[ atoms ]
+;   nr    type   resnr  residu    atom    cgnr        charge          mass
+     1     I_d     1     I      I       1            -1.0       126.90447
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+[ moleculetype ]
+; Name   nrexcl
+K_d          1
+; DOI: 10.1021/jp064661f ; Dang2006
+
+[ atoms ]
+;   nr    type   resnr  residu    atom    cgnr        charge          mass
+     1     K_d      1     K        K       1            1.0       39.0983
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+[ moleculetype ]
+; Name   nrexcl
+CA_d          1
+; DOI: 10.1021/jp064661f ; Dang2006
+
+[ atoms ]
+;   nr    type   resnr  residu    atom    cgnr        charge          mass
+     1     Ca_d     1    CA       CA       1            2.0        40.078
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+[ moleculetype ]
+; Name   nrexcl
+CA_s          1
+; DOI: 10.1021/jp5005693 ; Jungwirth2014 ; scaled
+
+[ atoms ]
+;   nr    type   resnr  residu    atom    cgnr        charge          mass
+     1     Ca_s     1    CA       CA       1            1.5        40.078
+

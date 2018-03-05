@@ -1,0 +1,53 @@
+# This file was created Tue Feb  6 14:22:28 2018
+# Created by:
+#                 :-) GROMACS - gmx clustsize, VERSION 5.1.4 (-:
+# 
+# Executable:   /opt/local/bin/gmx
+# Data prefix:  /opt/local
+# Command line:
+#   gmx clustsize -f /Users/giulio/Projects/SI-scn/bulk/rdfs/ff_our/spce/kscn/6.0m/out.xtc -s /Users/giulio/Projects/SI-scn/bulk/rdfs/ff_our/spce/kscn/6.0m/out.tpr -n /Users/giulio/Projects/SI-scn/bulk/rdfs/ff_our/spce/kscn/6.0m/out.ndx -hc /Users/giulio/Projects/SI-scn/bulk/rdfs/ff_our/spce/kscn/6.0m/hc_0.55_7.xvg -b 16333 -e 18972 -cut 0.55
+# gmx clustsize is part of G R O M A C S:
+#
+# GROningen MAchine for Chemical Simulation
+#
+@    title "Cluster size distribution"
+@    xaxis  label "Cluster size"
+@    yaxis  label "()"
+@TYPE xy
+    0     0.000
+    1   305.258
+    2    86.220
+    3    32.848
+    4    14.952
+    5     7.744
+    6     4.172
+    7     2.473
+    8     1.489
+    9     0.933
+   10     0.589
+   11     0.395
+   12     0.243
+   13     0.169
+   14     0.107
+   15     0.068
+   16     0.043
+   17     0.028
+   18     0.027
+   19     0.008
+   20     0.011
+   21     0.009
+   22     0.008
+   23     0.004
+   24     0.002
+   25     0.001
+   26     0.002
+   27     0.000
+   28     0.002
+   29     0.002
+   30     0.000
+   31     0.001
+   32     0.000
+   33     0.000
+   34     0.000
+   35     0.001
+   36     0.000

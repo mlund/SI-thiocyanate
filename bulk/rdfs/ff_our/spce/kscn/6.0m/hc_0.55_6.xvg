@@ -1,0 +1,54 @@
+# This file was created Tue Feb  6 14:22:20 2018
+# Created by:
+#                 :-) GROMACS - gmx clustsize, VERSION 5.1.4 (-:
+# 
+# Executable:   /opt/local/bin/gmx
+# Data prefix:  /opt/local
+# Command line:
+#   gmx clustsize -f /Users/giulio/Projects/SI-scn/bulk/rdfs/ff_our/spce/kscn/6.0m/out.xtc -s /Users/giulio/Projects/SI-scn/bulk/rdfs/ff_our/spce/kscn/6.0m/out.tpr -n /Users/giulio/Projects/SI-scn/bulk/rdfs/ff_our/spce/kscn/6.0m/out.ndx -hc /Users/giulio/Projects/SI-scn/bulk/rdfs/ff_our/spce/kscn/6.0m/hc_0.55_6.xvg -b 13694 -e 16333 -cut 0.55
+# gmx clustsize is part of G R O M A C S:
+#
+# Good ROcking Metal Altar for Chronical Sinners
+#
+@    title "Cluster size distribution"
+@    xaxis  label "Cluster size"
+@    yaxis  label "()"
+@TYPE xy
+    0     0.000
+    1   303.778
+    2    86.967
+    3    32.933
+    4    14.953
+    5     7.855
+    6     4.213
+    7     2.445
+    8     1.499
+    9     0.941
+   10     0.552
+   11     0.397
+   12     0.227
+   13     0.153
+   14     0.091
+   15     0.067
+   16     0.038
+   17     0.034
+   18     0.023
+   19     0.014
+   20     0.008
+   21     0.011
+   22     0.005
+   23     0.002
+   24     0.001
+   25     0.001
+   26     0.003
+   27     0.001
+   28     0.000
+   29     0.000
+   30     0.001
+   31     0.002
+   32     0.000
+   33     0.000
+   34     0.000
+   35     0.000
+   36     0.001
+   37     0.000
