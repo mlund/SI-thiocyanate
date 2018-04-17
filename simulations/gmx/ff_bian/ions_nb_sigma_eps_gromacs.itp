@@ -1,11 +1,9 @@
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ; Topology of ions for gromacs using ;
 ; sigma (nm) and epsilon (kJ/mol)    ;
-; Author: Hector martinez-Seara      ;
-; v.2.0                              ;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
 [ atomtypes ]
 ;name  at.num    mass      charge   ptype   sigma     epsilon
-  Na_d  11      22.98980    1.00      A     0.2580    0.4200   ; Dang
-  K_d   19      39.0983     1.00      A     0.3330    0.4200   ; Dang
+  Na_d  11      22.98980    1.00      A     0.2580    0.4200   ; Dang DOI: 10.1021/ja00131a018
+  K_d   19      39.0983     1.00      A     0.3330    0.4200   ; Dang DOI: 10.1021/ja00131a018
