@@ -2,7 +2,7 @@
 
 # A Molecular Forcefield for Thiocyanate Anions in Water and at Interfaces
 
-This repository contains [Jupyter](http://jupyter.org) Notebooks and simulation data for reproducing the work of the scientific paper _Specific Cation Effects on SCN<sup>-</sup> in Bulk Solution and at the Air–Water Interface_.
+This repository contains [Jupyter](http://jupyter.org) Notebooks and simulation data for reproducing the work of the scientific paper _Specific Cation Effects on SCN<sup>-</sup> in Bulk Solution and at the Air–Water Interface_, [DOI: 10.1021/acs.jpcb.8b02303](http://dx.doi.org/10.1021/acs.jpcb.8b02303).
 
 ### Layout
 
