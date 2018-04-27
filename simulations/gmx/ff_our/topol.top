@@ -1,4 +1,5 @@
 ; Include forcefield parameters
+; Tesei, Aspelin, Lund DOI: 10.1021/acs.jpcb.8b02303
 #include "charmm27.ff/forcefield.itp"
 
 [ atomtypes ]

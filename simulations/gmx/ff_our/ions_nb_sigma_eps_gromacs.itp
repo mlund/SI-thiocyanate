@@ -5,7 +5,7 @@
 
 [ atomtypes ]
 ;name  at.num    mass      charge   ptype   sigma     epsilon
-  Na_d  11      22.98980    1.00      A     0.2550    0.2800   ; V. Aspelin, G. Tesei, M. Lund
+  Na_d  11      22.98980    1.00      A     0.2550    0.2800   ; Tesei, Aspelin, Lund DOI: 10.1021/acs.jpcb.8b02303
   Cl_d  17      35.45300   -1.00      A     0.4400    0.4180   ; Dang DOI: 10.1021/ja00131a018
-  I_d   53      126.9045   -1.000     A     0.4910    0.1580   ; V. Aspelin, G. Tesei, M. Lund
-  K_d   19      39.0983     1.00      A     0.4030    0.8500   ; V. Aspelin, G. Tesei, M. Lund
+  I_d   53      126.9045   -1.000     A     0.4910    0.1580   ; Tesei, Aspelin, Lund DOI: 10.1021/acs.jpcb.8b02303
+  K_d   19      39.0983     1.00      A     0.4030    0.8500   ; Tesei, Aspelin, Lund DOI: 10.1021/acs.jpcb.8b02303
