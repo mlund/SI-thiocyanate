@@ -5,6 +5,7 @@ channels:
 - conda-forge
 - defaults
 dependencies:
+- python=3.6
 - pytraj=2.0
 - mdtraj=1.9
 - pandas=0.22
