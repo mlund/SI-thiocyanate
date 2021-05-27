@@ -1,4 +1,5 @@
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/mlund/SI-thiocyanate/master)
+[![DOI](https://zenodo.org/badge/89560162.svg)](https://zenodo.org/badge/latestdoi/89560162)
 
 # A Molecular Forcefield for Thiocyanate Anions in Water and at Interfaces
 
